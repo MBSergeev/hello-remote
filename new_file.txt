@@ -1,3 +1,5 @@
-Это новый файл
+﻿Это новый файл
 
 This is an adding
+
+gfdgfgdf
